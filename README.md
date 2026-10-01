@@ -1,4 +1,4 @@
-URL : "movie-recommendation-system-zh4znvd4k5lwnbh5x3hiv7.streamlit.app"
+URL : "https://movie-recommendation-system-zh4znvd4k5lwnbh5x3hiv7.streamlit.app/"
 # 🎬 Movie Recommendation System
 
 A content-based Movie Recommendation System built using **Python, Machine Learning, and Streamlit**.
